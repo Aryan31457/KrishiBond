@@ -62,7 +62,7 @@ Make sure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/PrinceRatheee/KrishiBond
+git clone https://github.com/Aryan31457/KrishiBond
 cd KrishiBond
 ```
 
